@@ -33,14 +33,14 @@ This course is designed for beginners who don't have any experience in comptuer 
 - [Python Data Science Handbook (PDSH)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [LearningPython.org (LP)](https://www.learnpython.org/)
 
-## Timeline (subject to change depending on class progress)
+## Timeline 
 
 |Date|Topic|Reference|Due|
 |---|---|---|---|
-|Week 1|- Introduction <br>- Python 101 (Variable) <br>- N-gram |- [PCN Chapter 1-10](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PPSC Chapter 1, 2](https://swcarpentry.github.io/python-novice-inflammation/) <br>- [PDSH Chapter 2](https://jakevdp.github.io/PythonDataScienceHandbook/)||
-|Week 2|- Numpy <br>- OLS, AB testing <br>- Pandas 1|- [PCN Chapter 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)| |
+|Week 1|- Introduction <br>- Python 101 <br>- N-gram |- [PCN Chapter 1-10](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PPSC Chapter 1, 2](https://swcarpentry.github.io/python-novice-inflammation/) <br>- [PDSH Chapter 2](https://jakevdp.github.io/PythonDataScienceHandbook/)||
+|Week 2|- Numpy <br>- OLS, AB testing <br>- Pandas 1 (DataFrame) |- [PCN Chapter 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)| |
 |Week 3|- Pandas 2 (Grouping, Merge, Timestamp) <br>- COVID-19, NYTimes <br>- Visualization <br>- Midterm|- [PCN Chapter 12, 15, 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) ||
-|Week 4|- Midterm review <br>- Regular expression <br>- Twitter <br>-Requests|- [PCN Chapter 13, 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|Week 4|- Midterm review <br>- Regular expression <br>- Twitter <br>- Requests|- [PCN Chapter 13, 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |Week 5|- SQL <br>- NYC311, Internet speed|- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |Week 6|- Linear Model (Feature Engineering, Data Splitting, Cross-validation) <br>- Medical Insurance <br>- Final|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PDSH Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)||
 
