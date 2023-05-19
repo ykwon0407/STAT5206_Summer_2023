@@ -42,7 +42,7 @@ This course is designed for beginners who don't have any experience in comptuer 
 |Week 3|- Pandas 2 (Grouping, Merge, Timestamp) <br>- COVID-19, NYTimes <br>- Visualization <br>- Midterm|- [PCN Chapter 12, 15, 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) ||
 |Week 4|- Midterm review <br>- Regular expression <br>- Twitter <br>-Requests|- [PCN Chapter 13, 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |Week 5|- SQL <br>- NYC311, Internet speed|- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|Week 6|- Linear Model (Feature Engineering, Data Splitting, Cross-validation) <br>- Medical Insurance <br>- Final|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PDSH Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)|- HW 5 (April 23, 11:59 PM)|
+|Week 6|- Linear Model (Feature Engineering, Data Splitting, Cross-validation) <br>- Medical Insurance <br>- Final|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PDSH Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)||
 
 ## Logistics
 Class time: M Tu W Th 4:30PM-6:05PM, Location: 503 Hamilton Hall
